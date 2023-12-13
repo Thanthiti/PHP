@@ -9,6 +9,10 @@
     <?php
 
     echo "Thanthiti"
+    echo "Thanthiti"
+    echo "Thanthiti"
+    echo "Thanthiti"
+    echo "Thanthiti"
     ?>
 </body>
 </html>
