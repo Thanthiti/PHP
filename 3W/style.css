@@ -1,0 +1,43 @@
+html,body{
+    background-color: rgb(188, 166, 139);
+    font-size: 25px;
+}
+img{
+    width: 600px;
+    height: 300px;
+
+}
+.img:hover{
+    background-color:rgb(173, 159, 142);
+   
+}
+div.img{
+    
+    margin: 15px;
+    padding: 30px;
+   
+    background-color:bisque;
+    border: 1px solid;
+    cursor: pointer;
+    }
+
+#head{
+    text-align: center;
+    font-size: 50px;
+    background-color: rgb(186, 151, 109);
+   
+
+}
+h3{
+    text-align: center;
+}
+
+h3::first-letter{
+    font-size: 40px;
+    color: blue;
+}
+h3::first-line{
+    color: red;
+   ;
+}
+
