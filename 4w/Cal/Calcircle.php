@@ -11,7 +11,6 @@
     $radius =3;
     define("PI",3.14);
     $Result = PI * ($radius *2);
-    echo $Result;
 
     echo"<tr>
     <td >รัศมี : </td>
