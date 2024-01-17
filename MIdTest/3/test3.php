@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <form method="get" action="cal.php">
+    <form method="get" action="Cal3.php">
     <table width="500" border="2" align="center">
         <tr>
             <td align="center" colspan="2">
