@@ -7,16 +7,16 @@
     <style>
       
         span.Mo{
-            color: green;
+            color: yellow;
+            font-size: 45px;
         }
         span{
-            font-size: 30px;
         }
     
     </style>
 </head>
 <body>
-    <span>
+    
     <?php
     $Row = $_GET["Row"];
     
@@ -28,7 +28,7 @@
         echo"<br>";
     }
     ?>
-    </span>
+    
    
 </body>
 </html>

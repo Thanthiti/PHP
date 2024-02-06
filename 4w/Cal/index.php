@@ -10,7 +10,7 @@
 <tr>
     <td colspan='3' align='center'>
         <h3>การคำนวณ</h3>
-    </td>
+    </td> 
 </tr> 
 
 <tr>
